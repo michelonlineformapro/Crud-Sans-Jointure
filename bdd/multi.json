@@ -1,0 +1,11 @@
+[
+{"type":"header","version":"5.0.2","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"multi"},
+{"type":"table","name":"cd","database":"multi","data":
+[
+{"id":"3","nom":"Machine Head","auteur":"DeepPurple"},
+{"id":"4","nom":"France Afrique","auteur":"Tiken Jha  Fakoly"},
+{"id":"5","nom":"PremiÃ¨res RÃ©colte","auteur":"SinsÃ©milia"}
+]
+}
+]
